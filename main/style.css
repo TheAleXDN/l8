@@ -1,0 +1,22 @@
+body{
+    background-color: #FDF5E6;
+}
+
+h1{
+    font-size: 35pt;
+    color: 	#8B4513;
+}
+span{
+    text-align: center;
+}
+img{
+    text-align: left;
+    border: 4px inset burlywood;
+}
+.text{
+    margin-right:80px;
+    width: 40vw;
+    float: right;
+    padding-left:20px;
+    border: 1px dotted burlywood;
+}
